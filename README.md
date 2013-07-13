@@ -7,7 +7,7 @@ This perl script analyzes a minified Enyo 2.x app (app.js, for example) and outp
 
 ## Usage
 
-$ perl analyzeEnyoApp.pl app.js
+    $ perl analyzeEnyoApp.pl app.js
 
 ## License
 Copyright 2013 OnCron Engineering, Inc.
